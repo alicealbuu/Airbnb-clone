@@ -11,7 +11,7 @@ Users can browse and view a list of available places for booking.
 3. Add and Modify Bookings:
 Authenticated users can add new bookings by selecting a place, specifying dates, and completing the booking process. Users have the ability to modify existing bookings.
 
-4. View Booked Places
-Users have a dedicated section where they can view a list of places they have booked. This section contains details such as booking dates, property information, and total cost for each reservation.
+4. Book and View Booked Places
+Users have a dedicated section where they can book places and view a list of places they have booked. This section contains details such as booking dates, property information, and total cost for each reservation.
 
   
