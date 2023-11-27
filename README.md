@@ -14,4 +14,14 @@ Authenticated users can add new bookings by selecting a place, specifying dates,
 4. Book and View Booked Places
 Users have a dedicated section where they can book places and view a list of places they have booked. This section contains details such as booking dates, property information, and total cost for each reservation.
 
+5. To run this project:
+
+a. Client-side:
+Navigate to the "client" folder in your project.
+Run the command: yarn dev to start the development server for the client.
+
+b. Server-side (API):
+Open a separate terminal or navigate to the "api" folder in your project.
+Run the command: nodemon index.js to start the server.
+
   
